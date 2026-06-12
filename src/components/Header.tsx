@@ -33,7 +33,7 @@ export default function Header({ currentPage, setCurrentPage, onContactOpen }: H
     { label: "홈", value: Page.HOME },
     { label: "진로", value: Page.CAREER },
     { label: "독서활동", value: Page.READING },
-    { label: "레트로게임", value: Page.GAME },
+    { label: "게임", value: Page.GAME },
     { label: "청라 급식 도우미", value: Page.MEAL },
   ];
 
