@@ -1,0 +1,11 @@
+{
+  "name": "Student Portfolio",
+  "description": "이지성 (Jiseong Lee) - 고등학교 학업, 활동, 레트로게임 프로젝트, 그리고 급식 도우미 서비스 연동 등을 온전히 담아낸 고품격 포트폴리오",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
